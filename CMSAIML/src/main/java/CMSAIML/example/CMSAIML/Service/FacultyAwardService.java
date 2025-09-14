@@ -32,7 +32,7 @@ public class FacultyAwardService {
     }
 
     // ✅ New method to handle form + file upload
-    public FacultyAward saveAward(
+    public void saveAward(
             String facultyName,
             String awardName,
             String awardedBy,
@@ -54,7 +54,7 @@ public class FacultyAwardService {
         award.setDescription(description);
         award.setCertificatePdf(certificatePdf.getBytes());
 
-        return facultyAwardRepository.save(award);
+        facultyAwardRepository.save(award);
     }
 
     public FacultyAward updateAward(Long id, FacultyAward updatedAward) {

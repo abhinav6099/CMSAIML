@@ -3,10 +3,14 @@ package CMSAIML.example.CMSAIML.Entity;
 import jakarta.persistence.*;
 import lombok.*;
 
+@Setter
+@Getter
 @Entity
 @Table(name = "placements")
 public class Placement {
 
+    // Setters
+    // Getters
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
@@ -20,7 +24,7 @@ public class Placement {
     private int year;  // Year of placement
 
     // Default constructor
-    public Placement() {}
+
 
     // Parameterized constructor
     public Placement(Long id, Student student, String company, double packageAmount, int year) {
@@ -31,45 +35,4 @@ public class Placement {
         this.year = year;
     }
 
-    // Getters
-    public Long getId() {
-        return id;
-    }
-
-    public Student getStudent() {
-        return student;
-    }
-
-    public String getCompany() {
-        return company;
-    }
-
-    public double getPackageAmount() {
-        return packageAmount;
-    }
-
-    public int getYear() {
-        return year;
-    }
-
-    // Setters
-    public void setId(Long id) {
-        this.id = id;
-    }
-
-    public void setStudent(Student student) {
-        this.student = student;
-    }
-
-    public void setCompany(String company) {
-        this.company = company;
-    }
-
-    public void setPackageAmount(double packageAmount) {
-        this.packageAmount = packageAmount;
-    }
-
-    public void setYear(int year) {
-        this.year = year;
-    }
 }

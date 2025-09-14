@@ -4,7 +4,58 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc62e579-00fe-4cb5-b807-928bfa14ffe4" name="Changes" comment="" />
+    <list default="true" id="dc62e579-00fe-4cb5-b807-928bfa14ffe4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Controller/FacultyAcademicQualificationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Controller/FacultyBookChapterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Controller/FacultyCertificationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Controller/FacultyInvitedTalkController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Controller/FacultyMembershipController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Controller/FacultyPatentGrantedController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Controller/FacultyPhdSupervisionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Controller/FacultyResearchProjectController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Controller/StudentExtraCurricularController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Controller/StudentHigherStudiesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Controller/StudentProfessionalMembershipController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Controller/StudentProjectWorkController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Controller/StudentStartupController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Controller/StudentTechnicalNonTechnicalCompetitionsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Entity/FacultyAcademicQualification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Entity/FacultyBookChapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Entity/FacultyCertificationEarned.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Entity/FacultyInvitedTalk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Entity/FacultyMembership.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Entity/FacultyPatentGranted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Entity/FacultyPhdSupervision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Entity/FacultyResearchProjectGuided.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Entity/StudentExtraCurricular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Entity/StudentHigherStudies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Entity/StudentProfessionalMembership.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Entity/StudentProjectWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Entity/StudentStartup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Entity/StudentTechnicalNonTechnicalCompetitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Service/FacultyAcademicQualificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Service/FacultyBookChapterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Service/FacultyCertificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Service/FacultyInvitedTalkService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Service/FacultyMembershipService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Service/FacultyPatentGrantedService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Service/FacultyPhdSupervisionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Service/FacultyResearchProjectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Service/StudentExtraCurricularService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Service/StudentHigherStudiesService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Service/StudentProfessionalMembershipService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Service/StudentProjectWorkService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Service/StudentStartupService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Service/StudentTechnicalNonTechnicalCompetitionsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Controller/AdminInformationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Controller/AdminInformationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Controller/AdminInformationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Controller/ExcelAdminController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Entity/NewAdmin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Entity/Placement.java" beforeDir="false" afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Entity/Placement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Service/FacultyAwardService.java" beforeDir="false" afterPath="$PROJECT_DIR$/CMSAIML/src/main/java/CMSAIML/example/CMSAIML/Service/FacultyAwardService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMSAIML/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/CMSAIML/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +74,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;abhinav6099&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/abhinav6099/CMSAIML.git&quot;,
+    &quot;accountId&quot;: &quot;b5f0d536-b9f4-4d78-9bbc-6e0c5f41741c&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/6.2.2/spring-web-6.2.2.jar!/org/springframework/web/bind/annotation/RequestMapping.class" root0="SKIP_INSPECTION" />
     <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/6.2.2/spring-webmvc-6.2.2.jar!/org/springframework/web/servlet/config/annotation/CorsRegistration.class" root0="SKIP_INSPECTION" />
@@ -44,21 +107,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CmsaimlApplication.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/abhin/OneDrive/Documents/CMSAITR-main(changes)/CMSAITR-main/CMSAIML",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CmsaimlApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/abhin/OneDrive/Documents/CMSAITR-main(changes)/CMSAITR-main/CMSAIML&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="CMSAIML.example.CMSAIML.Controller" />
